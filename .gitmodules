@@ -1,0 +1,3 @@
+[submodule "modules/sweetalert2"]
+	path = modules/sweetalert2
+	url = https://github.com/arkadym/sweetalert2
