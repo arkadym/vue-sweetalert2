@@ -14,7 +14,9 @@
     ],
     "author": "Aleksey Pivkin @avil13",
     "license": "MIT",
-    "dependencies": {},
+    "dependencies": {
+        "sweetalert2": "file:../sweetalert2"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/avil13/vue-sweetalert2.git"
